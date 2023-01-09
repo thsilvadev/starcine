@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Share&display=swap'); 
+*{
+   font-family: 'Share', cursive;
+}
+.novoprojeto{
+    width: 450;
+    margin: 0 auto;
+    padding: 3em;
+
+}
+
+.novoprojeto_container h1{
+    margin-bottom: 0.5em;
+}
+.novoprojeto_container p{
+    color:brown
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Share&display=swap'); 
+*{
+   font-family: 'Share', cursive;
+}
+.card{
+  width: 14rem;
+  
+  
+  
+}
+
+.img1{
+  width:50%;
+}
+.cl{
+  margin-top: 5px;
+  background-color: rgb(92, 92, 92);
+}
+.titulof{
+  margin-top: 15px;
+  color:rgb(8, 8, 8);
+  
+  text-align: center;
+}
+.f1{
+  border-radius: 150px;
+  margin-bottom: 10px;
+}

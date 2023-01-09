@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Share&display=swap'); 
+*{
+   font-family: 'Share', cursive;
+}
+.btn{
+    background-color: black;
+    color:rgb(236, 227, 215);
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+}
+.btn:hover{
+    color: brown;
+}
